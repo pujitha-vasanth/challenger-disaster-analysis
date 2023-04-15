@@ -1,4 +1,4 @@
-# Space Shuttle Challenger Disaster
+# 1986 Space Shuttle Challenger Disaster 
 ## Logistic Regression To Predict Catastrophe
 On January 28, 1986, the Space Shuttle Challenger broke apart 73 seconds into its flight, killing all seven crew members aboard. The spacecraft disintegrated 46,000 feet (14 km) above the Atlantic Ocean, off the coast of Cape Canaveral, Florida, at 11:39 a.m. EST (16:39 UTC). It was the first fatal accident involving an American spacecraft in flight.
 
